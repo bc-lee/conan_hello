@@ -1,0 +1,3 @@
+[requires]
+Boost.Regex/1.65.1@bincrafters/testing
+fmt/4.1.0@bincrafters/stable

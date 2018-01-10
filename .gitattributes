@@ -1,0 +1,19 @@
+* text auto eol=lf
+
+*.sln       eol=crlf merge=binary
+*.csproj    eol=crlf merge=binary
+*.vbproj    eol=crlf merge=binary
+*.vcxproj   eol=crlf merge=binary
+*.vcproj    eol=crlf merge=binary
+*.dbproj    eol=crlf merge=binary
+*.fsproj    eol=crlf merge=binary
+*.lsproj    eol=crlf merge=binary
+*.wixproj   eol=crlf merge=binary
+*.modelproj eol=crlf merge=binary
+*.sqlproj   eol=crlf merge=binary
+*.wwaproj   eol=crlf merge=binary
+
+*.xproj     eol=crlf merge=binary
+*.props     eol=crlf merge=binary
+*.filters   eol=crlf merge=binary
+*.vcxitems  eol=crlf merge=binary
